@@ -30,12 +30,6 @@
 ## 🚀 About Me
 
 Hi, I'm **Paul**. A passionate software engineer with a deep fascination for building intelligent, secure, and scalable digital systems. My expertise spans across **Fullstack Development**, **Artificial Intelligence**, and **DevOps**. Focused on the convergence of **Agentic AI** and **Cybersecurity**, leveraging autonomous multi-agent orchestration to fortify digital ecosystems.
-
-- 🎓 **MSc in Cybersecurity** — [**University of Dhaka**](https://www.du.ac.bd/) (**Ongoing**)
-- 🎓 **BSc in Computer Science** — [**Chittagong University of Engineering & Technology (CUET)**](https://www.cuet.ac.bd/)
-- 🎓 **Higher Secondary Certificate (HSC)** — [**Notre Dame College, Dhaka**](https://ndc.edu.bd/)
-- 🎓 **Secondary School Certificate (SSC)** — [**Motijheel Govt. Boys’ High School**](https://mgbhs.edu.bd/)
-
 ---
 
 ## 🛠️ Technical Expertise
@@ -177,7 +171,7 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
   <table width="100%" style="border-collapse: collapse;">
     <tr>
       <!-- PRIMARY HIGHLIGHT: VIVASOFT AI HACKATHON -->
-      <td align="center" width="45%" rowspan="3" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; line-height: 1.3;">
+      <td align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; line-height: 1.3;">
         <img src="https://img.icons8.com/bubbles/200/trophy.png" width="100" alt="Trophy" />
         <h3 style="margin: 0; margin-bottom: 5px; padding: 0;">✨ 2025</h3>
         <h3 style="margin: 0; margin-bottom: 5px; padding: 0;">
@@ -185,55 +179,6 @@ Hi, I'm **Paul**. A passionate software engineer with a deep fascination for bui
         </h3>
         <p style="margin: 0; margin-bottom: 5px; padding: 0;"><i>Architected AI solutions with Team KAI</i></p>
         <img src="https://img.shields.io/badge/RANKING-TOP_10-gold?style=for-the-badge&logo=target" height="28" alt="Top 10" />
-      </td>
-      <!-- SECONDARY TILE: CAREER CLUB -->
-      <td align="center" width="27.5%" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; line-height: 1.3;">
-        <p style="margin: 0; margin-bottom: 5px;"><b>🥈 2019</b></p>
-        <h3 style="margin: 0; margin-bottom: 5px; padding: 0;">
-          <a href="assets/2019-CUET-CAREER-CLUB.pdf" target="_blank" rel="noopener noreferrer">CUET Career Club</a>
-        </h3>
-        <p style="margin: 0; margin-bottom: 5px;"><i>Competitive Programming</i></p>
-        <img src="https://img.shields.io/badge/RANK-02-silver?style=flat-square" alt="Rank 2" />
-      </td>
-      <!-- SECONDARY TILE: USTC IUPC -->
-      <td align="center" width="27.5%" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; line-height: 1.3;">
-        <p style="margin: 0; margin-bottom: 5px;"><b>🥉 2018</b></p>
-        <h3 style="margin: 0; margin-bottom: 5px; padding: 0;">
-          <a href="assets/2018-TECHTRONICS-IUPC.pdf" target="_blank" rel="noopener noreferrer">USTC IUPC</a>
-        </h3>
-        <p style="margin: 0; margin-bottom: 5px;"><i>Competitive Programming</i></p>
-        <img src="https://img.shields.io/badge/TOP-50-CD7F32?style=flat-square" alt="Top 50" />
-      </td>
-    </tr>
-    <tr>
-      <!-- SECONDARY TILE: CUET CSE FEST -->
-      <td align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; line-height: 1.3;">
-        <p style="margin: 0; margin-bottom: 5px;"><b>🎯 2017</b></p>
-        <h3 style="margin: 0; margin-bottom: 5px; padding: 0;">
-          <a href="assets/2017-CUET-CSE-FEST.pdf" target="_blank" rel="noopener noreferrer">CUET CSE Fest</a>
-        </h3>
-        <p style="margin: 0; margin-bottom: 5px;"><i>Competitive Programming</i></p>
-        <img src="https://img.shields.io/badge/RANK-20-blue?style=flat-square" alt="Rank 20" />
-      </td>
-      <!-- SECONDARY TILE: ICPC REGIONAL -->
-      <td align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; line-height: 1.3;">
-        <p style="margin: 0; margin-bottom: 5px;"><b>📜 2017</b></p>
-        <h3 style="margin: 0; margin-bottom: 5px; padding: 0;">
-          <a href="assets/2017-ICPC-DHAKA-REGIONAL-SITE-ONLINE-PRELIMINARY-CONTEST.pdf" target="_blank" rel="noopener noreferrer">ICPC Regional Site</a>
-        </h3>
-        <p style="margin: 0; margin-bottom: 5px;"><i>Competitive Programming</i></p>
-        <img src="https://img.shields.io/badge/RANK-308-black?style=flat-square" alt="Rank 308" />
-      </td>
-    </tr>
-    <tr>
-      <!-- TILE: MAGNET AXIOM | DIGITAL FORENSICS -->
-      <td colspan="2" align="center" style="border: 1px solid #30363d; border-radius: 12px; padding: 12px; line-height: 1.3;">
-        <h3 style="margin: 0; margin-bottom: 5px; padding: 0;">🔬 2019</h3>
-        <h3 style="margin: 0; margin-bottom: 5px; padding: 0;">
-          <a href="assets/2019-FOUNDATIONS-IN-DIGITAL-FORENSIC-WITH-MAGNET-AXIOM.pdf" target="_blank" rel="noopener noreferrer"><b>Magnet Axiom</b></a>
-        </h3>
-        <p style="margin: 0; margin-bottom: 5px; padding: 0;"><i>Intensive Workshop on Foundations in Digital Forensics</i></p>
-        <img src="https://img.shields.io/badge/72h_INTENSIVE_FORENSIC_BOOTCAMP-E11D48?style=for-the-badge" height="28" alt="Magnet Axiom" />
       </td>
     </tr>
   </table>
